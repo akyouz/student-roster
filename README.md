@@ -20,3 +20,4 @@
 ## August 2021
 
 - [Cansev Karsili](/august2021/Cansev-K.md)
+- [Bersun E. Manavoğlu](/august2021/BersunManavoglu.md)
