@@ -21,3 +21,4 @@
 
 - [Cansev Karsili](/august2021/Cansev-K.md)
 - [Bersun E. Manavoğlu](/august2021/BersunManavoglu.md)
+- [Ipek Soltanov](/august2021/Ipek-S.md)

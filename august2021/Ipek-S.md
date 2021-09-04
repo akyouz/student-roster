@@ -1,0 +1,5 @@
+- Name:Ipek
+- Likes: riding bicycle
+- Dislikes: slow music
+- Favourite Quote: success is not by chance
+- GitHub Profile URL: https://github.com/ipek605
