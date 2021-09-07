@@ -23,3 +23,4 @@
 - [Bersun E. Manavoğlu](/august2021/BersunManavoglu.md)
 - [Ipek Soltanov](/august2021/Ipek-S.md)
 - [Denis Dinand](/august2021/Denis-D.md)
+- [Baris Aksay](/august2021/Baris-A.md)
