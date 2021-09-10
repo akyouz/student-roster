@@ -2,7 +2,7 @@
 
 ## Example Cohort
 
-- 
+- [Example Student](/example-cohort/example.md)]
 
 ## November 2020
 
