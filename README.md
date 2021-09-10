@@ -2,7 +2,7 @@
 
 ## Example Cohort
 
-- [Example Person](/example-cohort/example.md)
+- 
 
 ## November 2020
 
@@ -25,3 +25,4 @@
 - [Denis Dinand](/august2021/Denis-D.md)
 - [Baris Aksay](/august2021/Baris-A.md)
 - [Isfendiyar Berkan Kasapoglu](/august2021/isfendiyar-K.md)
+- [Feridun Canselen](/august2021/Feridun-C.md)

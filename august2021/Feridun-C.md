@@ -1,0 +1,5 @@
+- Name: Feridun C
+- Likes: Gaming,sports and economics
+- Dislikes: Unseasoned food' inconsiderate people
+- Favourite Quote: If you don't find a way to make money while you are asleep, you will work for the rest of your life. -Warren Buffet
+- GitHub Profile URL: https://github.com/Feridun12
