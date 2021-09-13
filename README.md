@@ -26,3 +26,4 @@
 - [Baris Aksay](/august2021/Baris-A.md)
 - [Isfendiyar Berkan Kasapoglu](/august2021/isfendiyar-K.md)
 - [Feridun Canselen](/august2021/Feridun-C.md)
+- [Hulya Duran](/august2021/Hulya-D.md)
