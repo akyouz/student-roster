@@ -1,0 +1,5 @@
+- Name: Gokhan Sancar
+- Likes: I like to move it move it
+- Dislikes: Egg Plant
+- Favourite Quote: "Goma aklına öyle şey"
+- GitHub Profile URL: https://github.com/Gokhan91
