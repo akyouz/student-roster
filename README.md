@@ -28,3 +28,7 @@
 - [Feridun Canselen](/august2021/Feridun-C.md)
 - [Hulya Duran](/august2021/Hulya-D.md)
 - [Pembe Mistikoglu](/august2021/Pembe-M.md)
+
+## December 2021
+
+- [Emre Ozgen](/december2021/emre-o.md)
