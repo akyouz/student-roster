@@ -1,0 +1,5 @@
+- Name: Ahmet Aksoy
+- Likes: Playing music with Serhan
+- Dislike: Tayyip
+- Favorite Quote: No qouote
+- Github Profile URL: https://github.com/ahmtksoy
