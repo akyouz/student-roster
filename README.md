@@ -33,3 +33,4 @@
 
 - [Emre Ozgen](/december2021/emre-o.md)
 - [Ahmet Aksoy](/december2021/ahmtksoy.md)
+- [Serhan Candas](/december2021/serhan-c.md)

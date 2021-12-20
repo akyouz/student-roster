@@ -1,0 +1,5 @@
+- Name: Serhan Candas
+- Likes: Music, Netflix 
+- Dislike: Cyprus
+- Favorite Quote: I'm freaking done with this country!
+- Github Profile URL: https://github.com/serhancandas
