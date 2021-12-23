@@ -1,0 +1,5 @@
+- Name: Ozun Gulle
+- Likes: music, movies, life
+- Dislike: Annoying People
+- Favorite Quote: 'Gorkma da Ölmeng'
+- Github Profile URL: https://github.com/Oz-Cyp
