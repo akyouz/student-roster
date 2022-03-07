@@ -1,0 +1,5 @@
+- Name: Mustafa Akyüz
+- Likes: chess, football
+- Dislikes: cakes, coffee
+- Favourite Quote: "The impediment to action, advances action. What stands in the way, becomes the way"
+- GitHub Profile URL: https://github.com/akyouz
